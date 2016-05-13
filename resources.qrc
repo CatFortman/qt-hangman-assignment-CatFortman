@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/route">
+        <file>Media/images/gallows0.png</file>
+        <file>Media/images/gallows1.png</file>
+        <file>Media/images/gallows2.png</file>
+        <file>Media/images/gallows3.png</file>
+        <file>Media/images/gallows4.png</file>
+        <file>Media/images/gallows5.png</file>
+        <file>Media/images/gallows6.png</file>
+    </qresource>
+    <qresource prefix="/text"/>
+    <qresource prefix="/winLose">
+        <file>winAndLoseImages/lose.gif</file>
+        <file>winAndLoseImages/win.jpg</file>
+    </qresource>
+</RCC>
